@@ -369,5 +369,6 @@ ul {
     background-color: #F57520;
     border: none;
     border-radius: 10px;
-    
+    color: white;
+    padding-top: 15px;
 }
