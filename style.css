@@ -1027,6 +1027,7 @@ ul {
     border: 1px solid black;
     width: 300px;
     margin-top: 80px;
+    border: none;
 
 }
 .main-tite1{
@@ -1050,10 +1051,40 @@ ul {
 }
 .main-btn{
     margin-top: 25px;
-    height: 35px;
+    height: 50px;
     width: 100%;
     border-radius: 10px;
     border: none;
     background-color: #F57520;
     color: white;
 }
+.main-subtitle4{
+    color: grey;
+    padding-top: 30px;
+    font-family: sans-serif;
+}
+.main-class2{
+    padding-left: 25px;
+    padding-bottom: 250px;
+}
+.main-title3{
+    font-size: 36px;
+    font-family: sans-serif;
+    margin-left: 250px;
+    margin-top: 80px;
+    text-transform: uppercase;
+}
+.main-class3{
+    display: flex;
+}
+.main-png{
+    margin-top: 170px;
+    width: 281px;
+    height: 244px;
+}
+.main-subtitle5{
+    color: grey;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
