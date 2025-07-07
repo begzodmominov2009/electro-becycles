@@ -102,7 +102,7 @@ ul {
 .hero-title4 {
     font-family: sans-serif;
     text-transform: uppercase;
-    font-size: 64px;
+    font-size: 54px;
     padding-top: 110px;
     padding-bottom: 100px;
 }
@@ -161,8 +161,9 @@ ul {
 
 .sarlavha {
     font-family: sans-serif;
-    font-size: 34px;
+    font-size: 44px;
     padding-top: 70px;
+    text-transform: uppercase;
 }
 
 .card2 {
@@ -211,6 +212,7 @@ ul {
     display: flex;
     gap: 50px;
     padding-bottom: 50px;
+    height: 600px;
 }
 
 #hero7 {
@@ -276,14 +278,96 @@ ul {
     display: flex;
     gap: 120px;
 }
-
-#hero10 {
-    background-image: url("./img/pngwing.png");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 300px;
+.hero-title10{
+    border: 1px solid black;
+    background-color: #F57520;
+    border: none;
+    padding-left: 420px;
+    display: block;
+    border-radius: 10px;
+    width: 1280px;
+    
 }
+.drop{
+  padding-top: 15px;
+}
+.ali{
+    margin-top: 80px;
+    font-size: 40px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    padding-bottom: 40px;
+}
+.room{
+    border: 1px solid black;
+    background-color: #101010;
+    border: none;
+    width: 400px;
+    height: 455px;
+    padding-top: 160px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.living{
+    border: 1px solid black;
+    background-color: #101010;
+    width: 400px;
+    height: 190px;
+    border-radius: 10px;
+    border: none;
+    padding-left: 270px;
+    margin-top: 15px;
+}
+.icon{
+    display: flex;
+    gap: 15px;
+}
+.seven{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 448px;
+    height: 239px;
+    background-color: black;
+    border: none;
+    padding-left: 225px;
+    padding-top: 90px;
+}
+.six{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: black;
+    height: 252px;
+    width: 400px;
+    border: none;
+    padding-left: 95px;
+}
+.icon{
+    display: flex;
+}
+.bath{
+    border:  1px solid black;
+    background-color: black;
+    border-radius: 10px;
+    border: none;
+    width: 448px;
+    height: 239px;
+    padding-left: 220px;
+    padding-top: 95px;
+    margin-top: 15px;
+}
+.pleace{
+    border: 1px solid black;
+    background-color: #101010;
+    border-radius: 10px;
+    border: none;
+    width: 448px;
+    height: 203px;
+    padding-left: 270px;
+}
+.wow{
+    margin-bottom: 100px;
+}
+ 
 
 #hero11 {
     background-image: url("./img/image\ 45.png");
@@ -299,6 +383,7 @@ ul {
     font-family: Bebas Neue Cyrillic;
     color: white;
     margin-top: -110px;
+    text-transform: uppercase;
 }
 
 .self {
@@ -320,6 +405,12 @@ ul {
 .hero-title12 {
     font-size: 64px;
     padding-top: 90px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+#hero12{
+    background-color: whitesmoke;
+    height: 850px;
 }
 
 .hero-time {
@@ -360,15 +451,84 @@ ul {
     gap: 50px;
     align-items: center;
 }
-.hero-title13{
+
+.hero-title13 {
     font-size: 48px;
     margin-top: 80px;
+    margin-bottom: 80px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+
 }
-.hero-botter{
-    width: 240px;
+
+.hero-title1234 {
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.hero-subtitle13 {
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.hero-subtitle123 {
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+.hero-padding {
+    width: 210px;
     background-color: #F57520;
     border: none;
     border-radius: 10px;
     color: white;
     padding-top: 15px;
+    margin-bottom: 20px ;
+    margin-left: 25px;
 }
+
+.next {
+    display: flex;
+    gap: 30px;
+}
+.hero-title14{
+    font-size: 48px;
+    font-family: sans-serif;
+    margin-top: 70px;
+    padding-top: 50px;
+    text-transform: uppercase;
+}
+.hero-subtitle14{
+    font-family: sans-serif;
+    color: grey;
+    padding-bottom: 20px;
+    line-height: 25px;
+    padding-left: 15px;
+}
+.hero-subtitle144{
+    color: grey;
+    font-family: sans-serif;
+    padding-left: 15px;
+}
+.sup{
+    width: 370px;
+    margin-top: 60px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    padding-bottom: 15px;
+}
+#hero14{
+    background-color: whitesmoke;
+    height: 700px;
+}
+.border{
+    /* display: flex;
+    gap: 50px; */
+}
+.norm{
+    display: flex;
+    gap: 40px;
+    justify-content: space-between;
+}
+
